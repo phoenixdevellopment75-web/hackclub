@@ -1,7 +1,7 @@
 ---
-name: 'Personal Website'
-description: 'Make your first website from scratch'
-author: '@MaxWofford'
+name: 'Tanjiro'
+description: 'A Website dedicatedfor tanjiro from demon-slayer'
+author: '@Phoenix75'
 locales: 'es-xl, pt-br'
 ---
 
